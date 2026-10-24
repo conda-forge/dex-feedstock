@@ -1,3 +1,6 @@
+bot:
+  automerge: true
+conda_install_tool: pixi
 conda_build_tool: rattler-build
 provider:
   osx_arm64: default
